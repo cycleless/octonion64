@@ -2,6 +2,11 @@
 name = "octonion64"
 version = "0.1.0"
 edition = "2024"
-description = "Bare-metal, zero-alloc, constant-time 8D hypercomplex algebra (Octonions) over Z_2^64. no_std, no_malloc, no_div, no_rem, octonion u64"
+description = "Bare-metal, mathematically exact 8D hypercomplex algebra over Z_2^64. no_std, no_malloc, branchless."
+license = "AGPL-3.0-only"
+keywords = ["math", "no_std", "simd", "algebra", "octonion"]
+categories = ["mathematics", "no-std", "science", "hardware-support"]
+repository = "http://github.com/cycleless/octonion64"
 
 [dependencies]
+
