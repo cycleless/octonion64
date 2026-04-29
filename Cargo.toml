@@ -1,0 +1,7 @@
+[package]
+name = "octonion64"
+version = "0.1.0"
+edition = "2024"
+description = "Bare-metal, zero-alloc, constant-time 8D hypercomplex algebra (Octonions) over Z_2^64. no_std, no_malloc, no_div, no_rem, octonion u64"
+
+[dependencies]
