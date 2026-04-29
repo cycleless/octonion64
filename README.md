@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="static/cycleless_100.png" alt="cycleless logo" width="150" />
+  <img src="static/octonion64.jpg" alt="octonion64 logo" width="150" />
   <h1>octonion64</h1>
   <p><b>Bare-metal, mathematically exact 8D hypercomplex algebra over Z_2^64</b></p>
   <p><i>A Cycleless Open Source Release</i></p>
@@ -56,5 +56,14 @@ let masked = a ^ b.rotate_left(3);
 
 ## License
 
-Distributed under the **GNU AGPL v3.0**. See the `LICENSE` file for full details. Released by Cycleless
+Distributed under the **GNU AGPL v3.0**. See the `LICENSE` file for full details.
+
+<br>
+
+---
+
+<div align="center">
+  <img src="static/cycleless_100.png" alt="Cycleless Logo" width="60" />
+  <p><b>CYCLELESS RnD</b><br><i>Zero Cycles. Absolute Precision.</i></p>
+</div>
 
